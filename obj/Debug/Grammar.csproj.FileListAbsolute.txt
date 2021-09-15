@@ -1,0 +1,6 @@
+D:\c# projects\Grammar\bin\Debug\Grammar.exe.config
+D:\c# projects\Grammar\bin\Debug\Grammar.exe
+D:\c# projects\Grammar\bin\Debug\Grammar.pdb
+D:\c# projects\Grammar\obj\Debug\Grammar.csprojResolveAssemblyReference.cache
+D:\c# projects\Grammar\obj\Debug\Grammar.exe
+D:\c# projects\Grammar\obj\Debug\Grammar.pdb
